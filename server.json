@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://github.com/abraaodev",
+      "name": "Teste de Upload",
+      "price": "99999999",
+      "description": "AbraaoDev - Refactoring",
+      "available": true,
+      "id": 5
     }
   ]
 }
